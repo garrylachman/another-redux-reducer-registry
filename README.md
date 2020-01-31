@@ -1,0 +1,1 @@
+# another-redux-reducer-registry
