@@ -1,0 +1,23 @@
+{
+  "name": "another-redux-reducer-registry",
+  "version": "1.0.0",
+  "description": "Redux Reducer Registery",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garrylachman/another-redux-reducer-registry.git"
+  },
+  "author": "Garry Lachman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/garrylachman/another-redux-reducer-registry/issues"
+  },
+  "homepage": "https://github.com/garrylachman/another-redux-reducer-registry#readme",
+  "dependencies": {
+    "redux": "^4.0.5"
+  }
+}
